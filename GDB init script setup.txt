@@ -1,0 +1,5 @@
+test@ubuntu:~$ $HOME
+bash: /home/slae: Is a directory
+test@ubuntu:~$ echo "set dis intel" > ~/.gdbinit
+test@ubuntu:~$ cat ~/.gdbinit 
+set dis intel
